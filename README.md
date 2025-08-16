@@ -33,7 +33,7 @@ _Replace the URL with your actual Vercel deployment link._
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/social-media-frontend.git](https://github.com/your-username/social-media-frontend.git)
+    git clone [https://github.com/Kyaw-ZinT/social-media-frontend.git])
     cd social-media-frontend
     ```
 2.  **Install dependencies:**
